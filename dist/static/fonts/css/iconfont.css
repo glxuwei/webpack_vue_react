@@ -1,0 +1,33 @@
+
+@font-face {font-family: "iconfont";
+  src: url('/static/fonts/iconfont.eot?t=1470985944'); /* IE9*/
+  src: url('/static/fonts/iconfont.eot?t=1470985944#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('/static/fonts/iconfont.woff?t=1470985944') format('woff'), /* chrome, firefox */
+  url('/static/fonts/iconfont.ttf?t=1470985944') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('/static/fonts/iconfont.svg?t=1470985944#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family:"iconfont" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-stroke-width: 0.2px;
+  -moz-osx-font-smoothing: grayscale;
+}
+.iconfont-user2:before { content: "\e62c"; }
+.iconfont-user:before { content: "\e62b"; }
+.iconfont-success:before { content: "\e62a"; }
+.iconfont-share:before { content: "\e629"; }
+.iconfont-search:before { content: "\e628"; }
+.iconfont-position2:before { content: "\e627"; }
+.iconfont-position:before { content: "\e626"; }
+.iconfont-like:before { content: "\e624"; }
+.iconfont-more:before { content: "\e625"; }
+.iconfont-delete:before { content: "\e623"; }
+.iconfont-back:before { content: "\e620"; }
+.iconfont-like2:before { content: "\e62e"; }
+.iconfont-info:before { content: "\e62d"; }
+.iconfont-close:before { content: "\e622"; }
+.iconfont-camera:before { content: "\e621"; }
+.iconfont-arrowright:before { content: "\e61f"; }

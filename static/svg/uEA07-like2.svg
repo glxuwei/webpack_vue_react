@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>like2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfont" transform="translate(-301.000000, -61.000000)" fill="#000000">
+            <g id="已赞icon" transform="translate(308.000000, 67.000000)">
+                <polygon id="Fill-1" points="0 45.2661818 9.696 45.2661818 9.696 18 0 18"></polygon>
+                <path d="M28.764,16.2829091 L28.764,6.24436364 L28.7705455,6.24436364 C28.7705455,6.22909091 28.764,6.216 28.764,6.20072727 L28.764,5.96509091 L28.7378182,5.96509091 C28.5654545,2.27563636 26.1741818,0 22.9450909,0 C19.6330909,0 17.1523636,2.71854545 17.1523636,6.64145455 L17.1523636,12.2269091 L13.5676364,18.0327273 L13.5,18.0327273 L13.5,21.9447273 L13.5676364,21.9447273 L13.5676364,40.7236364 L13.5,40.7432727 L13.5,45.2858182 L14.196,45.2858182 L24.0861818,47.2058182 L39.924,47.2625455 L46.4323636,19.7105455 L28.764,16.2829091 Z" id="Fill-2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

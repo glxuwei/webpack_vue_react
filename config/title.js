@@ -1,0 +1,22 @@
+module.exports.index = '图片社区-首页';
+module.exports.post = '图片社区-图片发布';
+module.exports.like_peoples = '图片社区-喜欢';
+module.exports.place_piclist = '图片社区-目的地图片';
+module.exports.detail = '图片社区-详情页';
+module.exports.piclist = '图片社区-图片列表';
+
+module.exports.t1 = "test"
+module.exports.index = "index"
+module.exports.test = "test"
+module.exports.add = "add"
+module.exports.a = "test a"
+module.exports.r1 = "aaaa"
+module.exports.TestReact = "dddd"
+module.exports.testOne = "react test one"
+module.exports.reactTwo = "react test two"
+module.exports.reactSecond = "second react page"
+module.exports.reactThird = "third react"
+module.exports.testTwo = "test two"
+module.exports.one = "one"
+module.exports.reactOne = "react one"
+module.exports.onePro = "react one pro"

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>success</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="iconfont" transform="translate(-140.000000, -140.000000)" fill="#000000">
+            <path d="M187.1,157 C187.6453,157 188.0975,157.1805 188.4585,157.5415 C188.8195,157.9025 189,158.3547 189,158.9 C189,159.4339 188.8176,159.8842 188.4509,160.2509 L165.6509,183.0509 C165.2842,183.4176 164.8339,183.6 164.3,183.6 C163.7661,183.6 163.3158,183.4176 162.9491,183.0509 L151.5491,171.6509 C151.1824,171.2842 151,170.8339 151,170.3 C151,169.7547 151.1805,169.3025 151.5415,168.9415 C151.9025,168.5805 152.3547,168.4 152.9,168.4 C153.4339,168.4 153.8842,168.5824 154.2509,168.9491 L164.3,179.0134 L185.7491,157.5491 C186.1158,157.1824 186.5661,157 187.1,157" id="对勾icon"></path>
+        </g>
+    </g>
+</svg>
